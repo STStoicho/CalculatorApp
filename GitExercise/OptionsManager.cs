@@ -5,9 +5,9 @@ namespace GitExercise
     public static class OptionsManager
     {
         public static string[] OptionsList = {
-            "a - Add",
-            "s - Subtract",
-            "m - Multiply"
+            "a - Add ",
+            "s - Subtract ",
+            "m - Multiply "
         };
 
         public static void Add(double a, double b)
